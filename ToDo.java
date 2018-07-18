@@ -10,6 +10,6 @@ public class ToDo{
 
 		System.out.print("Do you want to go with me ? ");
 		answer = keypress.nextLine();
-		System.out.println(answer+" ?");
+		System.out.println(answer+" ? okay than.");
 	}
 }
